@@ -1,0 +1,5 @@
+spring.cloud.stream.bindings:
+  input:
+    destination: topic1
+  output:
+    destination: topic1
